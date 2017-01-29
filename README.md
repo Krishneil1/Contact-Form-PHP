@@ -1,5 +1,7 @@
 # Contact-Form-PHP
-Working Contact Form in PHP. You will need to modify the contact.php page. Please note you need to implement changes in contact.php ie place your email address and passwor
+Working Contact Form in PHP. Please note you need to implement changes in contact.php ie place your email address and passwor
+
+This contact form has basic security features which you can choose to extend upon.
 
 Built using tutorials, and  other resources.
 Thanks
